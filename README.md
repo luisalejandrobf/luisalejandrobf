@@ -11,9 +11,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## My Stats ⭐:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=luisalejandrobf&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisalejandrobf&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=donut&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" height="150" alt="languages graph"  />
 </div>
 
 ---
