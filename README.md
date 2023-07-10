@@ -4,9 +4,9 @@
 
 ## My Stats ⭐:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=luisalejandrobf&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=compact" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=luisalejandrobf&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=compact" height="120" alt="languages graph"  />
 </div>
 
 ---
