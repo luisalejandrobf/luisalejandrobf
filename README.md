@@ -1,5 +1,5 @@
 ![Header](header.png)
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Alejandro Bravo Ferreira
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Luis Alejandro Bravo Ferreira 
 =====================================================================================================================================================
 
 * 🎓  I'm currently pursuing a degree in Systems Engineering at the Pontificia Universidad Javeriana.
@@ -8,7 +8,8 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 🤝  I'm open to collaborating on Interesting and impactful projects!
 * ⚡  I was going to tell you a joke about time travel, but you didn't like it 😔
 
-
+![](https://komarev.com/ghpvc/?username=luisalejandrobf&color=blue)
+  
 ## My Stats ⭐:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
