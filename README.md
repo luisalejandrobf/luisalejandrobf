@@ -11,17 +11,11 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ![](https://komarev.com/ghpvc/?username=luisalejandrobf&color=blue&style=&style=flat-square)
   
 # My Stats ⭐:
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisalejandrobf&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
-  </div>
-  <div style="flex: 0 0 30%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=donut&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true&langs_count=10" height="200" alt="languages graph" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisalejandrobf&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=donut&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true&langs_count=10" height="200" alt="languages graph"  />
 </div>
-
 
 ---
 
@@ -58,6 +52,3 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 # 👨‍💻 Currently Learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-
-
-
