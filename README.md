@@ -11,16 +11,16 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ![](https://komarev.com/ghpvc/?username=luisalejandrobf&color=blue&style=&style=flat-square)
   
 # My Stats ⭐:
-<table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
+<table style="width: 100%; margin: 0 auto; border-collapse: collapse; border: none;">
   <tr>
-    <td style="vertical-align: top; text-align: center; width: 50%;">
+    <td style="vertical-align: top; text-align: center; width: 50%; border: none;">
       <div style="display: inline-block; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" height="150" width="450" alt="stats graph" /><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisalejandrobf&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" width="450" alt="streak graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=luisalejandrobf&rank_icon=github&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true&card_width=495" height="150" width="495" alt="stats graph" /><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisalejandrobf&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" width="495" alt="streak graph" />
       </div>
     </td>
-    <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=donut&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true&langs_count=10" height="300" width="450" alt="languages graph" />
+    <td style="width: 50%; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalejandrobf&layout=donut&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true&langs_count=10" height="300" width="495" alt="languages graph" />
     </td>
   </tr>
 </table>
