@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🎓  I'm currently pursuing a degree in Systems Engineering at the Pontificia Universidad Javeriana.
 * 🌍  I'm based in Bogotá, Colombia.
-* ✉️  Feel free to contact me at [luisalejandrobravoferreira@gmail.com](mailto:luisalejandrobravoferreira@gmail.com)
+* ✉️  Feel free to contact me at [luisalejandrobravoferreira@gmail.com](mailto:luisalejandrobravoferreira@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/luisalejandrobravoferreira/)
 * 🤝  I'm open to collaborating on Interesting and impactful projects!
 * ⚡  I was going to tell you a joke about time travel, but you didn't like it 😔
 
