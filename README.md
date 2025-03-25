@@ -2,7 +2,7 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Luis Alejandro Bravo Ferreira 
 =====================================================================================================================================================
 
-* 🎓  I'm currently pursuing a degree in Systems Engineering at the Pontificia Universidad Javeriana.
+* 🎓 I graduated with a degree in Systems Engineering from the Pontificia Universidad Javeriana.
 * 🌍  I'm based in Bogotá, Colombia.
 * ✉️  Feel free to contact me at [luisalejandrobravoferreira@gmail.com](mailto:luisalejandrobravoferreira@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luisalejandrobravoferreira/).
 * 🤝  I'm open to collaborating on Interesting and impactful projects!
