@@ -1,13 +1,13 @@
 ![Header](header.png)
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Luis Alejandro Bravo Ferreira 
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there! I'm Luis Alejandro Bravo Ferreira 
 =====================================================================================================================================================
 
-* 🎓 I graduated with a degree in Systems Engineering from the Pontificia Universidad Javeriana.
-* 🌍  I'm based in Bogotá, Colombia.
-* ✉️  Feel free to contact me at [luisalejandrobravoferreira@gmail.com](mailto:luisalejandrobravoferreira@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luisalejandrobravoferreira/).
-* 🤝  I'm open to collaborating on Interesting and impactful projects!
-* ⚡  I was going to tell you a joke about time travel, but you didn't like it 😔
-* 💼 Check out my portfolio [here](https://luisalejandrobf.vercel.app/).
+* 🎓  I'm a Systems Engineering graduate from Pontificia Universidad Javeriana, passionate about building innovative and meaningful tech solutions.  
+* 🌍  Based in Bogotá, Colombia.
+* ✉️  Feel free to reach me at [luisalejandrobravoferreira@gmail.com](mailto:luisalejandrobravoferreira@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luisalejandrobravoferreira/).
+* 🤝  Open to collaborating on Interesting and impactful projects!
+* 💼  Check out my portfolio [here](https://luisalejandrobf.vercel.app/).
+* ⚡  Fun fact: I was going to tell you a joke about time travel, but you didn't like it 😔
 
 ![](https://komarev.com/ghpvc/?username=luisalejandrobf&color=blue&style=&style=flat-square)
   
